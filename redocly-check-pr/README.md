@@ -1,3 +1,4 @@
 # redocly-check
 
 changes
+check
