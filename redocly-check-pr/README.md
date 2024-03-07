@@ -1,0 +1,4 @@
+# redocly-check
+
+changes
+check
