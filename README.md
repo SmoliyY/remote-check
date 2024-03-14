@@ -1,3 +1,3 @@
 # remote-check
 add commit
-to main-2
+to main
