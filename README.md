@@ -1,2 +1,2 @@
 # remote-check
-commit
+pr-main to
