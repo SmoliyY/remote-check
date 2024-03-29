@@ -1,3 +1,3 @@
 # remote-check
 add
-create pr
+create pr2
