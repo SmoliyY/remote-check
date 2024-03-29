@@ -1,3 +1,2 @@
 # remote-check
-add
-check
+pr
