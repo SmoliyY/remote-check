@@ -1,0 +1,20 @@
+openapi: 3.0.0
+info:
+  description: Description
+  title: Exploring-new-ideas-often-leads-to-unexpected-discoveries,-inspiring-creativity-and-fostering-innovation-in-various-fields-of-knowledge-1
+  version: 1.0.0
+paths:
+  /example:
+    post:
+      operationId: example
+      summary: Example endpoint
+      responses:
+        '200':
+          description: Successful response
+  /examples:
+    get: 
+      responses: 
+        default: 
+          description: dadada
+          
+      
