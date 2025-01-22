@@ -1,4 +1,4 @@
 # redocly-check
 
-w2
+we
 
