@@ -1,4 +1,4 @@
 # redocly-check
 
-w1
+w2
 
