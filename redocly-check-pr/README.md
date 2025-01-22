@@ -1,4 +1,4 @@
 # redocly-check
 
-changes
+w1
 
