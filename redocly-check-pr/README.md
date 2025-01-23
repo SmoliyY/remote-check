@@ -1,3 +1,1 @@
 # redocly-check
-
-a
