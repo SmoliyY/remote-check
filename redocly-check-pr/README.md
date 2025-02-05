@@ -1,4 +1,2 @@
 # redocly-check
-
-changes
-check
+create pr
