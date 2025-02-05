@@ -1,3 +1,3 @@
 # redocly-check
-create pr 3
+create pr main
 adadad
